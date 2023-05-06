@@ -1,6 +1,6 @@
 # The DOM Is a Tree c
 
-## Learning Goals
+## Learning Goals c
 
 - Describe how the DOM works as a tree
 - Define the computer science version of "Tree"
