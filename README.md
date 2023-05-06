@@ -1,4 +1,4 @@
-# The DOM Is a Tree
+# The DOM Is a Tree c
 
 ## Learning Goals
 
